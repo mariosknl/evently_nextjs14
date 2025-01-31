@@ -28,7 +28,7 @@
     "next": "15.1.6",
     "query-string": "^9.0.0",
     "react": "^18",
-    "react-datepicker": "^7.0.0",
+    "react-datepicker": "^8.0.0",
     "react-dom": "^18",
     "react-hook-form": "^7.49.2",
     "stripe": "^17.0.0",
