@@ -22,7 +22,7 @@
     "@uploadthing/react": "^6.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "lucide-react": "^0.564.0",
+    "lucide-react": "^0.575.0",
     "mongodb": "^7.0.0",
     "mongoose": "^9.0.0",
     "next": "16.1.6",
